@@ -69,7 +69,7 @@ const config = {
         title: 'sunny group',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/sunny.svg',
+          src: 'img/sunny.png',
         },
         items: [
           {
