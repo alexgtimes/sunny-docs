@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'sunny group',
   tagline: 'hehe funnies',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/sunny.ico',
 
   // Set the production url of your site here
   url: 'https://sunny-docs.vercel.app',
